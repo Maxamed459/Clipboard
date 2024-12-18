@@ -1,0 +1,1 @@
+Every time you need to start watching your css file you can write:   npm run dev
